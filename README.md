@@ -9,7 +9,7 @@ We are ([STAM](https://github.com/stamepicmorg) and [AurZum](https://github.com/
 and we are merged it to one big cleanuped and actualized list. Why not?
 
 Now we are checking mods to compablity with [reHLDS](https://github.com/dreamstalker/rehlds)  and [Metamod-r](https://github.com/theAsmodai/metamod-r):
-* we are cleaned list of avalible games. deleted old won-games. 'cause rehlds works only on steam-version -> metamod-r too, against original metamod.
+* we are cleaned list of available games. deleted old won-games. 'cause rehlds works only on steam-version -> metamod-r too, against original metamod.
 * we are compilled last version metamod-r with our game-list.
 * we are checked all mods with compablity.
 
@@ -59,20 +59,20 @@ If all be ok we will pull this list to awesome metamod-r.
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe
 | ------------- |---------------| ------| ------| ------| ------|
 | [Action Half-Life](http://www.moddb.com/mods/action-half-life/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Adrenalinegamer 3.x](http://planethalflife.gamespy.com/View75d9.html?view=HLFiles.Detail&id=1929) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| Adrenalinegamer 4.x | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
+| [Adrenalinegamer 3.x](http://planethalflife.gamespy.com/View75d9.html?view=HLFiles.Detail&id=1929) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
+| Adrenalinegamer 4.x | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
 | [Arg!](https://www.fileplanet.com/50432/download/Arg!-The-Pirates-Strike-Back) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | [Azure Sheep](http://www.moddb.com/mods/azure-sheep/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [Base Defense](http://www.moddb.com/mods/b-def/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| Bot * | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
+| Bot * | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
 | [Brain Bread](http://www.moddb.com/mods/brainbread/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [Brutal Half-Life](http://www.moddb.com/mods/brutal-half-life/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [Bumper Cars](http://www.moddb.com/mods/bumper-cars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [BuzzyBots](http://www.moddb.com/mods/buzzybots/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [Chicken Fortress 3](http://www.moddb.com/mods/chicken-fortress-3/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :white_check_mark:
-| Counter-Strike 1.3 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :x:
-| Counter-Strike 1.4 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :x:
-| Counter-Strike 1.5 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :x:
+| Counter-Strike 1.3 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
+| Counter-Strike 1.4 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
+| Counter-Strike 1.5 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
 | Counter-Strike 1.5 (Steam) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :white_check_mark:
 | Desert Crisis | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Digital Paintball | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
