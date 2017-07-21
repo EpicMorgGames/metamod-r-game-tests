@@ -31,26 +31,26 @@ If all be ok we will pull this list to awesome metamod-r.
 
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe
 | ------------- |---------------| ------| ------| ------| ------|
-| [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :interrobang: | :white_check_mark:
-| [Half-Life](http://store.steampowered.com/app/70/HalfLife/)  + [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :interrobang: | :white_check_mark:
+| [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [Half-Life](http://store.steampowered.com/app/70/HalfLife/)  + [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 # To be retest preTested games
 
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe
 | ------------- |---------------| ------| ------| ------| ------|
-| [Adrenaline Gamer (Steam)](http://www.moddb.com/mods/adrenaline-gamer/downloads/) + [openAG](https://github.com/YaLTeR/OpenAG)| [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :white_check_mark:
-| [Half-Life: Blue Shift](http://store.steampowered.com/app/130/HalfLife_Blue_Shift/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Counter-Strike:Condition Zero](http://store.steampowered.com/app/80/CounterStrike_Condition_Zero/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Counter-Strike:Condition Zero Deleted Scenes](http://store.steampowered.com/app/80/CounterStrike_Condition_Zero/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Deathmatch Classic](http://store.steampowered.com/app/40/Deathmatch_Classic/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Day of Defeat](http://store.steampowered.com/app/30/Day_of_Defeat/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Earth's Special Forces](http://www.moddb.com/mods/earths-special-forces/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Opposing Force](http://store.steampowered.com/app/50/HalfLife_Opposing_Force/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Natural Selection](https://unknownworlds.com/ns/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Natural Selection Beta](https://unknownworlds.com/ns/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Ricochet](http://store.steampowered.com/app/60/Ricochet/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [Team Fortress Classic](http://store.steampowered.com/app/20/Team_Fortress_Classic/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
-| [The Specialists](http://www.moddb.com/mods/the-specialists/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :white_check_mark:
+| [Adrenaline Gamer (Steam)](http://www.moddb.com/mods/adrenaline-gamer/downloads/) + [openAG](https://github.com/YaLTeR/OpenAG)| [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :heavy_check_mark:
+| [Half-Life: Blue Shift](http://store.steampowered.com/app/130/HalfLife_Blue_Shift/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Counter-Strike:Condition Zero](http://store.steampowered.com/app/80/CounterStrike_Condition_Zero/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Counter-Strike:Condition Zero Deleted Scenes](http://store.steampowered.com/app/80/CounterStrike_Condition_Zero/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Deathmatch Classic](http://store.steampowered.com/app/40/Deathmatch_Classic/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Day of Defeat](http://store.steampowered.com/app/30/Day_of_Defeat/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Earth's Special Forces](http://www.moddb.com/mods/earths-special-forces/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Opposing Force](http://store.steampowered.com/app/50/HalfLife_Opposing_Force/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Natural Selection](https://unknownworlds.com/ns/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Natural Selection Beta](https://unknownworlds.com/ns/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Ricochet](http://store.steampowered.com/app/60/Ricochet/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [Team Fortress Classic](http://store.steampowered.com/app/20/Team_Fortress_Classic/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
+| [The Specialists](http://www.moddb.com/mods/the-specialists/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: | :interrobang: | :heavy_check_mark:
 
 -----------------------------------
 
@@ -58,22 +58,22 @@ If all be ok we will pull this list to awesome metamod-r.
 
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe
 | ------------- |---------------| ------| ------| ------| ------|
-| [Action Half-Life](http://www.moddb.com/mods/action-half-life/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Action Half-Life](http://www.moddb.com/mods/action-half-life/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | [Adrenalinegamer 3.x](http://planethalflife.gamespy.com/View75d9.html?view=HLFiles.Detail&id=1929) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
 | Adrenalinegamer 4.x | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
 | [Arg!](https://www.fileplanet.com/50432/download/Arg!-The-Pirates-Strike-Back) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [Azure Sheep](http://www.moddb.com/mods/azure-sheep/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Base Defense](http://www.moddb.com/mods/b-def/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Azure Sheep](http://www.moddb.com/mods/azure-sheep/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Base Defense](http://www.moddb.com/mods/b-def/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | Bot * | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: 
-| [Brain Bread](http://www.moddb.com/mods/brainbread/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Brutal Half-Life](http://www.moddb.com/mods/brutal-half-life/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Bumper Cars](http://www.moddb.com/mods/bumper-cars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [BuzzyBots](http://www.moddb.com/mods/buzzybots/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Chicken Fortress 3](http://www.moddb.com/mods/chicken-fortress-3/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :white_check_mark:
+| [Brain Bread](http://www.moddb.com/mods/brainbread/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Brutal Half-Life](http://www.moddb.com/mods/brutal-half-life/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Bumper Cars](http://www.moddb.com/mods/bumper-cars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [BuzzyBots](http://www.moddb.com/mods/buzzybots/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Chicken Fortress 3](http://www.moddb.com/mods/chicken-fortress-3/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :heavy_check_mark:
 | Counter-Strike 1.3 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
 | Counter-Strike 1.4 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
 | Counter-Strike 1.5 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x:
-| Counter-Strike 1.5 (Steam) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :white_check_mark:
+| Counter-Strike 1.5 (Steam) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :heavy_check_mark:
 | Desert Crisis | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Digital Paintball | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Dragon Mod Z | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
@@ -81,13 +81,13 @@ If all be ok we will pull this list to awesome metamod-r.
 | Firearms | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Freeze | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Frontline Force | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [Gangsta Wars (Steam)](http://www.moddb.com/mods/gangsta-wars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Gangsta Wars (Steam)](http://www.moddb.com/mods/gangsta-wars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | Gangwars | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Global Warfare | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Goldeneye | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Gunman Chronicles | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [Half-Life 1.5: Weapon Edition](http://www.moddb.com/mods/half-life-weapon-edition/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Half-Life: Decay](http://www.moddb.com/mods/half-life-decay/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Half-Life 1.5: Weapon Edition](http://www.moddb.com/mods/half-life-weapon-edition/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Half-Life: Decay](http://www.moddb.com/mods/half-life-decay/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: |  :x: |  :heavy_check_mark: 
 | Headcrab Frenzy | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: |  :interrobang: 
 | HL-Rally | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Holy Wars | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
@@ -116,13 +116,13 @@ If all be ok we will pull this list to awesome metamod-r.
 | Retro Counter-Strike | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Retro Firearms | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Rival Species | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [Rocket Crowbar](http://hldm.org/files/mods/287-rocket-crowbar.html) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Rocket Crowbar 2](http://www.moddb.com/mods/rocket-crowbar-2/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Rocket Crowbar](http://hldm.org/files/mods/287-rocket-crowbar.html) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Rocket Crowbar 2](http://www.moddb.com/mods/rocket-crowbar-2/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | Science & Industry | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Scientist Hunt | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Snow-War | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Special Death Match | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [StargateTC](http://www.moddb.com/mods/stargatetc/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :white_check_mark: 
+| [StargateTC](http://www.moddb.com/mods/stargatetc/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :heavy_check_mark: 
 | Sven Coop | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
 | Swarm | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
 | The Battle Grounds | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
@@ -137,7 +137,7 @@ If all be ok we will pull this list to awesome metamod-r.
 | Wanted! | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
 | Wasteland | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
 | Weapon Wars | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
-| [Wizard Wars Beta](http://www.moddb.com/mods/wizard-wars/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Wizard Wars](http://www.moddb.com/mods/wizard-wars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [WormsHL](http://www.moddb.com/mods/wormshl/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
-| [Zombie Panic](http://www.moddb.com/mods/zombie-panic/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
+| [Wizard Wars Beta](http://www.moddb.com/mods/wizard-wars/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Wizard Wars](http://www.moddb.com/mods/wizard-wars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [WormsHL](http://www.moddb.com/mods/wormshl/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+| [Zombie Panic](http://www.moddb.com/mods/zombie-panic/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
