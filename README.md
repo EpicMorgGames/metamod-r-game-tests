@@ -31,7 +31,7 @@ If all be ok we will pull this list to awesome metamod-r.
 
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe | Comment
 | ------------- |---------------| ------| ------| ------| ------|------|
-| [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Recommended to use reGameDll
+| [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Recommended to use [reGameDll_CS](https://github.com/s1lentq/ReGameDLL_CS)
 | [Half-Life](http://store.steampowered.com/app/70/HalfLife/)  + [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Added support after 1.3.76 version
 
 # To be retest preTested games
