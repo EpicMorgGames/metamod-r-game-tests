@@ -34,7 +34,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    },
 	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                },
 	{ "dragonmodz",         "hl.so",                    "mp.dll",                    "Dragon Mod Z"                                     },
-	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                 },    //workaround
+	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                   },    //workaround
 	{ "esf",                "hl.so",                    "hl.dll",                    "Earth's Special Forces (Old)"                     },
 	{ "existence",          "ex.so",                    "existence.dll",             "Existence"                                        },
 	{ "firearms",           "fa.so",                    "firearms.dll",              "Firearms"                                         },
