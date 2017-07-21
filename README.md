@@ -127,10 +127,10 @@ If all be ok we will pull this list to awesome metamod-r.
 | Snow-War | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Special Death Match | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | [StargateTC](http://www.moddb.com/mods/stargatetc/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :heavy_check_mark: 
-| Sven Coop | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
-| Swarm | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
-| The Battle Grounds | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
-| The Ship | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  :interrobang: 
+| Sven Coop | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :heavy_check_mark: | 
+| Swarm | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  
+| The Battle Grounds | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  
+| The Ship | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: |  
 | The Terrorist Revenge | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
 | The Trenches | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
 | The Wastes | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  |  :interrobang: 
