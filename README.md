@@ -1,3 +1,15 @@
+# wtf :interrobang:
+
+We are ([STAM](https://github.com/stamepicmorg) and [AurZum](https://github.com/Aleks-Z)) collected list of supported games from 
+* [metamod Original](https://sourceforge.net/projects/metamod/files/Metamod%20Sourcecode/1.20/) (look at file "games.h"), 
+* [metamod-p](https://github.com/jkivilin/metamod-p/blob/master/metamod/games.h) (old repo at [SF](https://sourceforge.net/p/metamod-p/code/ci/master/tree/metamod/games.h)),
+* [metamod-am\metamod-hl1](https://github.com/alliedmodders/metamod-hl1/blob/master/metamod/games.h) by [alliedmodders](https://github.com/alliedmodders/)
+* [metamod-p-cmake](https://github.com/SamVanheer/Metamod-P-CMake/blob/master/metamod/games.h) (just opmtimazed c-make fork).  
+
+and merge it to one big cleanuped list. Now we are checking mods to compablity with  [reHLDS](https://github.com/dreamstalker/rehlds) and [Metamod-r](https://github.com/theAsmodai/metamod-r).
+
+If all be ok we will pull this list to awesome metamod-r.
+
 # To do
 
 1. test all games\mods on windows
