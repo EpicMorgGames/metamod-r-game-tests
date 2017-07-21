@@ -9,7 +9,7 @@ We are ([STAM](https://github.com/stamepicmorg) and [AurZum](https://github.com/
 and we are merged it to one big cleanuped and actualized list. Why not?
 
 Now we are checking mods to compablity with [reHLDS](https://github.com/dreamstalker/rehlds)  and [Metamod-r](https://github.com/theAsmodai/metamod-r):
-* we are cleane list of avalible games. deletel old won-games. 'cause rehlds works only on steam-version -> metamod-r too, against original metamod.
+* we are cleaned list of avalible games. deleted old won-games. 'cause rehlds works only on steam-version -> metamod-r too, against original metamod.
 * we are compilled last version metamod-r with our game-list.
 * we are checked all mods with compablity.
 
