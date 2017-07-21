@@ -10,7 +10,7 @@
 | Game | Engine | Metamod  | Windows  | Linux  |
 | ------------- |---------------| ------| ------| ------|
 | [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :interrobang:
-| [Half-Life](http://store.steampowered.com/app/70/HalfLife/)  + bugfixedHLrelease [forum](http://aghl.ru/forum/viewtopic.php?f=32&t=686), [files](http://aghl.ru/files/patches/BugfixedHL/)  | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :interrobang:
+| [Half-Life](http://store.steampowered.com/app/70/HalfLife/)  + [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :interrobang:
 
 # To be retest preTested games
 
