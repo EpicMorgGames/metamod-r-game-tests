@@ -2,7 +2,7 @@
 
 We are ([STAM](https://github.com/stamepicmorg) and [AurZum](https://github.com/Aleks-Z)) collected list of supported games from 
 * [metamod Original](https://sourceforge.net/projects/metamod/files/Metamod%20Sourcecode/1.20/) (look at file "games.h"), 
-* [metamod-p](https://github.com/jkivilin/metamod-p/blob/master/metamod/games.h) (old repo at [SF](https://sourceforge.net/p/metamod-p/code/ci/master/tree/metamod/games.h)),
+* [metamod-p](https://github.com/jkivilin/metamod-p/blob/master/metamod/games.h) (old repo at [SF](https://sourceforge.net/p/metamod-p/code/ci/master/tree/metamod/games.h)) ([online list](http://metamod.org/supportedmods.html)),
 * [metamod-am\metamod-hl1](https://github.com/alliedmodders/metamod-hl1/blob/master/metamod/games.h) by [alliedmodders](https://github.com/alliedmodders/)
 * [metamod-p-cmake](https://github.com/SamVanheer/Metamod-P-CMake/blob/master/metamod/games.h) (just opmtimazed c-make fork).  
 
@@ -52,11 +52,11 @@ If all be ok we will pull this list to awesome metamod-r.
 
 | Game | Engine | Metamod  | Windows  | Linux  |
 | ------------- |---------------| ------| ------| ------|
-| Action Half-Life |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
-| Adrenalinegamer 3.x | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
+| [Action Half-Life](http://www.moddb.com/mods/action-half-life/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
+| [Adrenalinegamer 3.x](http://planethalflife.gamespy.com/View75d9.html?view=HLFiles.Detail&id=1929) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
 | Adrenalinegamer 4.x | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
-| Arg! | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
-| Azure Sheep | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
+| [Arg!](https://www.fileplanet.com/50432/download/Arg!-The-Pirates-Strike-Back) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
+| [Azure Sheep](http://www.moddb.com/mods/azure-sheep/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
 | Base Defense | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
 | Bot | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
 | Brain Bread | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: 
