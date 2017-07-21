@@ -29,6 +29,8 @@ If all be ok we will pull this list to awesome metamod-r.
 
 # already preTested games
 
+:x: - unsuccess :heavy_check_mark: - success :interrobang: - need testing
+
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe | Comment
 | ------------- |---------------| ------| ------| ------| ------|------|
 | [Counter-Strike 1.6](http://store.steampowered.com/app/10/CounterStrike/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Recommended to use [reGameDll_CS](https://github.com/s1lentq/ReGameDLL_CS)
@@ -51,9 +53,7 @@ If all be ok we will pull this list to awesome metamod-r.
 
 # To be tested
 
-:x: - unsuccess
-:heavy_check_mark: - success
-:interrobang: - need testing
+:x: - unsuccess :heavy_check_mark: - success :interrobang: - need testing
 
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe| Comment
 | ------------- |---------------| ------| ------| ------| ------| ------|
