@@ -65,10 +65,10 @@ If all be ok we will pull this list to awesome metamod-r.
 | [Base Defense](http://www.moddb.com/mods/b-def/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: | Server's binaries placed in not-dll folder
 | Bot * | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x: |  :x: | Old outdated won-version. Cant find in the internet. lol
 | [Brain Bread](http://www.moddb.com/mods/brainbread/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
-| [Brutal Half-Life](http://www.moddb.com/mods/brutal-half-life/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: | Have no linux binary. Check it.
+| [Brutal Half-Life](http://www.moddb.com/mods/brutal-half-life/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :x: |  :heavy_check_mark: | Have no linux binary. Check it.
 | [Bumper Cars](http://www.moddb.com/mods/bumper-cars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | [BuzzyBots](http://www.moddb.com/mods/buzzybots/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
-| [Chicken Fortress 3](http://www.moddb.com/mods/chicken-fortress-3/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang:  | :heavy_check_mark: | Have no linux binary. Check it.
+| [Chicken Fortress 3](http://www.moddb.com/mods/chicken-fortress-3/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :x:  | :heavy_check_mark: | Have no linux binary. Check it.
 | Counter-Strike 1.3 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x: | Old outdated won-version.
 | Counter-Strike 1.4 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x: | Old outdated won-version.
 | Counter-Strike 1.5 (WON) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :x: |  :x:  | :x: | Old outdated won-version.
@@ -94,14 +94,14 @@ If all be ok we will pull this list to awesome metamod-r.
 | International Online Soccer | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Judgement | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Kanonball | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| Master Sword Continued | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
+| Master Sword Continued | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :x: |  :interrobang: | Have no linux binary. Check it.
 | Monkeystrike | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Morbid Inclination | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Move In! | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | OeL Half-Life | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Open-Source Jailbreak | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: | Have no linux binary. Check it.
 | Operations 1942 | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| Out Break | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
+| Out Break | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :x: |  :interrobang: | Have no linux binary. Check it.
 | Outlawsmod | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Over Ground | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Oz Deathmatch | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
