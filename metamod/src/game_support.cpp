@@ -65,7 +65,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "ol",                 "ol.so",                    "hl.dll",                    "Outlawsmod"                                       },
 	{ "ops1942",            "spirit.so",                "spirit.dll",                "Operations 1942"                                  },
 	{ "osjb",               "osjb.so",                  "jail.dll",                  "Open-Source Jailbreak"                            },
-	{ "outbreak",           nullptr,                    "hl.dll",                    "Out Break"                                        },      //have no linux binary
+	{ "outbreak",           nullptr,                    "hl.dll",                    "Out Break"                                        },    //have no linux binary
 	{ "oz",                 "mp.so",                    "mp.dll",                    "Oz Deathmatch"                                    },
 	{ "paintball",          "pb.so",                    "mp.dll",                    "Paintball"                                        },
 	{ "penemy",             "pe.so",                    "pe.dll",                    "Public Enemy"                                     },
