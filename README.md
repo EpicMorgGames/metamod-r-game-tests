@@ -56,6 +56,10 @@ If all be ok we will pull this list to awesome metamod-r.
 
 # To be tested
 
+:x: - unsuccess
+:heavy_check_mark: - success
+:interrobang: - need testing
+
 | Game | Engine | Metamod  | Windows  | Linux  | SteamPipe
 | ------------- |---------------| ------| ------| ------| ------|
 | [Action Half-Life](http://www.moddb.com/mods/action-half-life/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
