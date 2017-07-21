@@ -6,7 +6,11 @@ We are ([STAM](https://github.com/stamepicmorg) and [AurZum](https://github.com/
 * [metamod-am\metamod-hl1](https://github.com/alliedmodders/metamod-hl1/blob/master/metamod/games.h) by [alliedmodders](https://github.com/alliedmodders/)
 * [metamod-p-cmake](https://github.com/SamVanheer/Metamod-P-CMake/blob/master/metamod/games.h) (just opmtimazed c-make fork).  
 
-and merge it to one big cleanuped list. Now we are checking mods to compablity with  [reHLDS](https://github.com/dreamstalker/rehlds) and [Metamod-r](https://github.com/theAsmodai/metamod-r).
+and we are merged it to one big cleanuped and actualized list. Why not?
+
+Now we are checking mods to compablity with [reHLDS](https://github.com/dreamstalker/rehlds)  and [Metamod-r](https://github.com/theAsmodai/metamod-r).
+
+
 
 If all be ok we will pull this list to awesome metamod-r.
 
