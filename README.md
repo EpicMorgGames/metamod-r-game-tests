@@ -112,7 +112,7 @@ If all be ok we will pull this list to awesome metamod-r.
 | Retro Counter-Strike | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Retro Firearms | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Rival Species | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
-| [Rocket Crowbar](http://hldm.org/files/mods/287-rocket-crowbar.html) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :x: 
+| [Rocket Crowbar](http://hldm.org/files/mods/287-rocket-crowbar.html) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | [Rocket Crowbar 2](http://www.moddb.com/mods/rocket-crowbar-2/downloads/) |  [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :white_check_mark: 
 | Science & Industry | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
 | Scientist Hunt | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :interrobang: 
