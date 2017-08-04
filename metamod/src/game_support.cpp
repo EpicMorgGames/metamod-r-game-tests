@@ -18,7 +18,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            },
 	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
 	{ "buzzybots",          nullptr,                    "bb.dll",                    "BuzzyBots"                                        }, // have no linux binary found!
-	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary!
+	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary found!, checked all versions (latest - Alpha 4)
 	{ "cs13",               "cs.so",                    "mp.dll",                    "Counter-Strike 1.3"                               },
 	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike"                                   },
 	{ "csv15",              "cs.so",                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       },
