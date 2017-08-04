@@ -10,15 +10,15 @@ const game_modinfo_t g_known_games[] = {
 	// convenient db.
 	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016]
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 }, // .so file by OpenAG fork
-	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, //have no linux binary found!
-	{ "bdef",               "server.so",                "server.dll",                "Base Defense"                                     }, //placed in normal dll folder, 2017y. no workaround.
+	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, // have no linux binary found!
+	{ "bdef",               "server.so",                "server.dll",                "Base Defense"                                     }, // placed in normal dll folder, 2017y. no workaround.
 	{ "bg",                 "bg.so",                    "bg.dll",                    "The Battle Grounds"                               },
-	{ "bhl",                nullptr,                    "bhl.dll",                   "Brutal Half-Life"                                 }, //have no linux binary!
-	{ "brainbread",         "bb.so",                    "bb.dll",                    "Brain Bread"                                      },
+	{ "bhl",                nullptr,                    "bhl.dll",                   "Brutal Half-Life"                                 }, // have no linux binary!
+	{ "brainbread",         nullptr,                    "bb.dll",                    "Brain Bread"                                      }, // have no linux binary found!
 	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            },
 	{ "bumpercars",         "hl.so",                    "hl.dll",                    "Bumper Cars"                                      },
 	{ "buzzybots",          "bb.so",                    "bb.dll",                    "BuzzyBots"                                        },
-	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, //have no linux binary!
+	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary!
 	{ "cs13",               "cs.so",                    "mp.dll",                    "Counter-Strike 1.3"                               },
 	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike"                                   },
 	{ "csv15",              "cs.so",                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       },
@@ -30,7 +30,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    },
 	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                },
 	{ "dragonmodz",         "hl.so",                    "mp.dll",                    "Dragon Mod Z"                                     },
-	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                   }, //workaround
+	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                   }, // workaround
 	{ "esf",                "hl.so",                    "hl.dll",                    "Earth's Special Forces (Old)"                     },
 	{ "existence",          "ex.so",                    "existence.dll",             "Existence"                                        },
 	{ "firearms",           "fa.so",                    "firearms.dll",              "Firearms"                                         },
@@ -58,7 +58,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "ol",                 "ol.so",                    "hl.dll",                    "Outlawsmod"                                       },
 	{ "ops1942",            "spirit.so",                "spirit.dll",                "Operations 1942"                                  },
 	{ "osjb",               "osjb.so",                  "jail.dll",                  "Open-Source Jailbreak"                            },
-	{ "outbreak",           nullptr,                    "hl.dll",                    "Out Break"                                        }, //have no linux binary
+	{ "outbreak",           nullptr,                    "hl.dll",                    "Out Break"                                        }, // have no linux binary
 	{ "oz",                 "mp.so",                    "mp.dll",                    "Oz Deathmatch"                                    },
 	{ "paintball",          "pb.so",                    "mp.dll",                    "Paintball"                                        },
 	{ "penemy",             "pe.so",                    "pe.dll",                    "Public Enemy"                                     },
