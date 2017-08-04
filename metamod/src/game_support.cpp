@@ -17,7 +17,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "brainbread",         nullptr,                    "bb.dll",                    "Brain Bread"                                      }, // have no linux binary found!
 	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            },
 	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
-	{ "buzzybots",          "bb.so",                    "bb.dll",                    "BuzzyBots"                                        },
+	{ "buzzybots",          nullptr,                    "bb.dll",                    "BuzzyBots"                                        }, // have no linux binary found!
 	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary!
 	{ "cs13",               "cs.so",                    "mp.dll",                    "Counter-Strike 1.3"                               },
 	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike"                                   },
