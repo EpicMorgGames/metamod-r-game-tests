@@ -11,12 +11,12 @@ const game_modinfo_t g_known_games[] = {
 	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016]
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 }, // .so file by OpenAG fork
 	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, // have no linux binary found!
-	{ "bdef",               "server.so",                "server.dll",                "Base Defense"                                     }, // placed in normal dll folder, 2017y. no workaround.
+	{ "bdef",               "server.so",                "server.dll",                "Base Defense"                                     }, // placed in normal dll folder [2017]
 	{ "bg",                 "bg.so",                    "bg.dll",                    "The Battle Grounds"                               },
 	{ "bhl",                nullptr,                    "bhl.dll",                   "Brutal Half-Life"                                 }, // have no linux binary found!
 	{ "brainbread",         nullptr,                    "bb.dll",                    "Brain Bread"                                      }, // have no linux binary found!
 	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            },
-	{ "bumpercars",         "hl.so",                    "hl.dll",                    "Bumper Cars"                                      },
+	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
 	{ "buzzybots",          "bb.so",                    "bb.dll",                    "BuzzyBots"                                        },
 	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary!
 	{ "cs13",               "cs.so",                    "mp.dll",                    "Counter-Strike 1.3"                               },
