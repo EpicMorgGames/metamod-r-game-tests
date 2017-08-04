@@ -51,7 +51,7 @@ If all be ok we will pull this list to awesome metamod-r.
 
 -----------------------------------
 
-# To be tested
+# To be tested (officially supported mods by original versions of metamods)
 
 :x: - unsuccess :heavy_check_mark: - success :interrobang: - need testing :anger: - not shure
 
@@ -124,6 +124,14 @@ If all be ok we will pull this list to awesome metamod-r.
 | [Wizard Wars](http://www.moddb.com/mods/wizard-wars/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | [WormsHL](http://www.moddb.com/mods/wormshl/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
 | [Zombie Panic](http://www.moddb.com/mods/zombie-panic/downloads/) | [reHLDS](https://github.com/dreamstalker/rehlds) | [Metamod-r](https://github.com/theAsmodai/metamod-r) | :interrobang: |  :interrobang: |  :heavy_check_mark: 
+
+# To be tested (other 3rd party mods)
+
+:x: - unsuccess :heavy_check_mark: - success :interrobang: - need testing :anger: - not shure
+
+| Game | Engine | Metamod  | Windows  | Linux  | SteamPipe| Comment
+| ------------- |---------------| ------| ------| ------| ------| ------|
+| - | - | - | - | - | - | - |
 
 # Outdated mods. WON-versions or versions  wich disappeared from internet
  
