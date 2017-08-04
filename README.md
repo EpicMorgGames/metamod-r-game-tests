@@ -22,6 +22,7 @@ If all be ok we will pull this list to awesome metamod-r.
 
 # To do
 
+0. download an check all actul modes. than update cpp-file with fixed filenames! than recompile custom metamod-dll. and start checking other points.
 1. test all games\mods on windows
 2. test all games\mods on linux (if available)
 3. keep some windows-servers. for fun. why not?
