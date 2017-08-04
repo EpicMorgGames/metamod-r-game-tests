@@ -8,7 +8,7 @@ const game_modinfo_t g_known_games[] = {
 	// Previously enumerated in this sourcefile, the list is now kept in a
 	// separate file, generated based on game information stored in a
 	// convenient db.
-	{ "action",             "ahl.so",                   "ahl.dll",                   "Action Half-Life"                                 }, 
+	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016]
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 },
 	{ "ag3",                "hl.so",                    "hl.dll",                    "Adrenalinegamer 3.x"                              },
 	{ "aghl",               "ag.so",                    "ag.dll",                    "Adrenalinegamer 4.x"                              },
@@ -98,7 +98,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "tod",                "hl.so",                    "hl.dll",                    "Tour of Duty"                                     },
 	{ "trainhunters",       "th.so",                    "th.dll",                    "Train Hunters"                                    },
 	{ "trevenge",           "trevenge.so",              "trevenge.dll",              "The Terrorist Revenge"                            },
-	{ "ts",	                "ts_i686.so",               "mp.dll",		             "The Specialists"                                  },
+	{ "ts",	                "ts_i686.so",               "mp.dll",		         "The Specialists"                                  },
 	{ "ts",                 "ts_i386.so",               "mp.dll",                    "The Specialists"                                  },
 	{ "tt",                 "tt.so",                    "tt.dll",                    "The Trenches"                                     },
 	{ "underworld",         "uw.so",                    "uw.dll",                    "Underworld Bloodline"                             },
