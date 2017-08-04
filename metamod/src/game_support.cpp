@@ -9,7 +9,7 @@ const game_modinfo_t g_known_games[] = {
 	// separate file, generated based on game information stored in a
 	// convenient db.
 	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016]
-	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 },
+	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 }, // .so file by OpenAG fork
 	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, //have no linux binary found!
 	{ "bdef",               "../cl_dlls/server.so",     "../cl_dlls/server.dll",     "Base Defense"                                     }, //workaround
 	{ "bg",                 "bg.so",                    "bg.dll",                    "The Battle Grounds"                               },
