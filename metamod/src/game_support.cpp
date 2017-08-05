@@ -15,21 +15,20 @@ const game_modinfo_t g_known_games[] = {
 	{ "bg",                 "bg.so",                    "bg.dll",                    "The Battle Grounds"                               },
 	{ "bhl",                nullptr,                    "bhl.dll",                   "Brutal Half-Life"                                 }, // have no linux binary found!
 	{ "brainbread",         nullptr,                    "bb.dll",                    "Brain Bread"                                      }, // have no linux binary found!
-	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            },
+	{ "bshift",             "bshift.so",                "hl.dll",                    "Half-Life: Blue Shift"                            }, // ok
 	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
 	{ "buzzybots",          nullptr,                    "bb.dll",                    "BuzzyBots"                                        }, // have no linux binary found!
 	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary found!, checked all versions (latest - Alpha 4)
 	{ "cs10",               nullptr,                    "mp.dll",                    "Counter-Strike 1.0 (Steam)"                       }, // have no linux binary found!
 	{ "csv15",              nullptr,                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       }, // have no linux binary found!
-	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike 1.6"                               },
-	{ "czero",              "cs.so",                    "mp.dll",                    "Counter-Strike:Condition Zero"                    },
-	{ "czeror",             "cz.so",                    "cz.dll",                    "Counter-Strike:Condition Zero Deleted Scenes"     },
+	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike 1.6"                               }, // ok
+	{ "czero",              "cs.so",                    "mp.dll",                    "Counter-Strike:Condition Zero"                    }, // ok
+	{ "czeror",             "cz.so",                    "cz.dll",                    "Counter-Strike:Condition Zero Deleted Scenes"     }, // ok
 	{ "dcrisis",            "dc_i386.so",               "dc.dll",                    "Desert Crisis"                                    }, // updated linux binary name [2010]
 	{ "decay",              nullptr,                    "decay.dll",                 "Half-Life: Decay"                                 }, // have no linux binary!
-	{ "dmc",                "dmc.so",                   "dmc.dll",                   "Deathmatch Classic"                               },
-	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    },
-	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                },
-	{ "dragonmodz",         "hl.so",                    "mp.dll",                    "Dragon Mod Z"                                     },
+	{ "dmc",                "dmc.so",                   "dmc.dll",                   "Deathmatch Classic"                               }, // ok
+	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    }, // ok
+	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                }, // ok
 	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                   }, // workaround
 	{ "esf",                "hl.so",                    "hl.dll",                    "Earth's Special Forces (Old)"                     },
 	{ "existence",          "ex.so",                    "existence.dll",             "Existence"                                        },
