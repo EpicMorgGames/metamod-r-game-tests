@@ -19,9 +19,9 @@ const game_modinfo_t g_known_games[] = {
 	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
 	{ "buzzybots",          nullptr,                    "bb.dll",                    "BuzzyBots"                                        }, // have no linux binary found!
 	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary found!, checked all versions (latest - Alpha 4)
-	{ "cs13",               "cs.so",                    "mp.dll",                    "Counter-Strike 1.3"                               },
-	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike"                                   },
-	{ "csv15",              "cs.so",                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       },
+	{ "cs10",               nullptr,                    "mp.dll",                    "Counter-Strike 1.0 (Steam)"                       }, // have no linux binary found!
+	{ "csv15",              nullptr,                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       }, // have no linux binary found!
+	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike 1.6"                               },
 	{ "czero",              "cs.so",                    "mp.dll",                    "Counter-Strike:Condition Zero"                    },
 	{ "czeror",             "cz.so",                    "cz.dll",                    "Counter-Strike:Condition Zero Deleted Scenes"     },
 	{ "dcrisis",            "dc.so",                    "dc.dll",                    "Desert Crisis"                                    },
