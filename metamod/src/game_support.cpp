@@ -68,7 +68,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "pvk",                "hl.so",                    "hl.dll",                    "Pirates, Vikings and Knights"                     },
 	{ "rc2",                "rc2.so",                   "rc2.dll",                   "Rocket Crowbar 2"                                 },
 	{ "recbb2",             "recb.so",                  "recb.dll",                  "Resident Evil : Cold Blood"                       },
-	{ "rewolf",             "hl.so",                    "gunman.dll",                "Gunman Chronicles"                                },
+	{ "rewolf",             nullptr,                    "gunman.dll",                "Gunman Chronicles"                                }, // have no linux binary found!
 	{ "ricochet",           "ricochet.so",              "mp.dll",                    "Ricochet"                                         },
 	{ "rockcrowbar",        "rc.so",                    "rc.dll",                    "Rocket Crowbar"                                   },
 	{ "rockcrowbar",        "rc_i386.so",               "rc.dll",                    "Rocket Crowbar"                                   },
