@@ -41,7 +41,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "gangwars",           nullptr,                    "mp.dll",                    "Gangwars"                                         }, // have no linux binary found!
 	{ "gearbox",            "opfor.so",                 "opfor.dll",                 "Opposing Force"                                   }, //ok
 	{ "globalwarfare",      "gw_i386.so",               "mp.dll",                    "Global Warfare"                                   }, //updated linux binary name [2012]
-	{ "goldeneye",          "golden.so",                "mp.dll",                    "Goldeneye"                                        },
+	{ "goldeneye",          nullptr,                    "mp.dll",                    "Goldeneye"                                        }, // have no linux binary found!
 	{ "hcfrenzy",           "hcfrenzy.so",              "hcfrenzy.dll",              "Headcrab Frenzy"                                  },
 	{ "hl15we",             "hl.so",                    "hl.dll",                    "Half-Life 1.5: Weapon Edition"                    },
 	{ "hlrally",            "hlr.so",                   "hlrally.dll",               "HL-Rally"                                         },
