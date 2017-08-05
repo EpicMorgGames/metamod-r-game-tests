@@ -29,9 +29,9 @@ const game_modinfo_t g_known_games[] = {
 	{ "dmc",                "dmc.so",                   "dmc.dll",                   "Deathmatch Classic"                               }, // ok
 	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    }, // ok
 	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                }, // ok
-	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Steam)"                   }, // workaround
-	{ "esf",                "hl.so",                    "hl.dll",                    "Earth's Special Forces (Old)"                     },
-	{ "existence",          "ex.so",                    "existence.dll",             "Existence"                                        },
+	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces"                           }, // workaround for basic-linux version
+	{ "esf",                "hl_i386.so",               "hl.dll",                    "Earth's Special Forces"                           }, // full linux version
+	{ "existence",          nullptr,                    "existence.dll",             "Existence"                                        }, // have no linux binary found!
 	{ "firearms",           "fa.so",                    "firearms.dll",              "Firearms"                                         },
 	{ "frontline",          "front.so",                 "frontline.dll",             "Frontline Force"                                  },
 	{ "gangstawars",        "gangsta.so",               "gwars27.dll",               "Gangsta Wars (Steam)"                             },
