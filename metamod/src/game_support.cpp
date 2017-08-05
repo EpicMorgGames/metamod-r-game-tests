@@ -22,8 +22,8 @@ const game_modinfo_t g_known_games[] = {
 	{ "bumpercars",         nullptr,                    "hl.dll",                    "Bumper Cars"                                      }, // have no linux binary found!
 	{ "buzzybots",          nullptr,                    "bb.dll",                    "BuzzyBots"                                        }, // have no linux binary found!
 	{ "ckf3",               nullptr,                    "mp.dll",                    "Chicken Fortress 3"                               }, // have no linux binary found!, checked all versions (latest - Alpha 4)
-	{ "cs10",               nullptr,                    "mp.dll",                    "Counter-Strike 1.0 (Steam)"                       }, // have no linux binary found!
-	{ "csv15",              nullptr,                    "mp.dll",                    "Counter-Strike 1.5 (Steam)"                       }, // have no linux binary found!
+	{ "cs10",               nullptr,                    "mp.dll",                    "Counter-Strike 1.0"                               }, // have no linux binary found!
+	{ "csv15",              nullptr,                    "mp.dll",                    "Counter-Strike 1.5"                               }, // have no linux binary found!
 	{ "cstrike",            "cs.so",                    "mp.dll",                    "Counter-Strike 1.6"                               }, // ok
 	{ "czero",              "cs.so",                    "mp.dll",                    "Counter-Strike:Condition Zero"                    }, // ok
 	{ "czeror",             "cz.so",                    "cz.dll",                    "Counter-Strike:Condition Zero Deleted Scenes"     }, // ok
@@ -36,11 +36,11 @@ const game_modinfo_t g_known_games[] = {
 	{ "esf",                "hl_i386.so",               "hl.dll",                    "Earth's Special Forces"                           }, // full linux version
 	{ "existence",          nullptr,                    "existence.dll",             "Existence"                                        }, // have no linux binary found!
 	{ "firearms",           nullptr,                    "firearms.dll",              "Firearms"                                         }, // have no linux binary found!
-	{ "frontline",          "front.so",                 "frontline.dll",             "Frontline Force"                                  },
-	{ "gangstawars",        "gangsta.so",               "gwars27.dll",               "Gangsta Wars (Steam)"                             },
-	{ "gangwars",           "mp.so",                    "mp.dll",                    "Gangwars"                                         },
-	{ "gearbox",            "opfor.so",                 "opfor.dll",                 "Opposing Force"                                   },
-	{ "globalwarfare",      "gw.so",                    "mp.dll",                    "Global Warfare"                                   },
+	{ "frontline",          "front_i386.so",            "frontline.dll",             "Frontline Force"                                  }, // updated linux binary name [2012]
+	{ "gangstawars",        nullptr,                    "gwars27.dll",               "Gangsta Wars"                                     }, // have no linux binary found!
+	{ "gangwars",           nullptr,                    "mp.dll",                    "Gangwars"                                         }, // have no linux binary found!
+	{ "gearbox",            "opfor.so",                 "opfor.dll",                 "Opposing Force"                                   }, //ok
+	{ "globalwarfare",      "gw_i386.so",               "mp.dll",                    "Global Warfare"                                   }, //updated linux binary name [2012]
 	{ "goldeneye",          "golden.so",                "mp.dll",                    "Goldeneye"                                        },
 	{ "hcfrenzy",           "hcfrenzy.so",              "hcfrenzy.dll",              "Headcrab Frenzy"                                  },
 	{ "hl15we",             "hl.so",                    "hl.dll",                    "Half-Life 1.5: Weapon Edition"                    },
