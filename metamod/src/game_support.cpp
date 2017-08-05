@@ -8,6 +8,9 @@ const game_modinfo_t g_known_games[] = {
 	// Previously enumerated in this sourcefile, the list is now kept in a
 	// separate file, generated based on game information stored in a
 	// convenient db.
+	//
+	// List contains only steam\steampipe versions of mods. Any won-versions of mods is not included!
+	//
 	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016], updated linux binary name
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer"                                 }, // .so file by OpenAG fork
 	{ "asheep",             nullptr,                    "hl.dll",                    "Azure Sheep"                                      }, // have no linux binary found!
@@ -32,7 +35,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces"                           }, // workaround for basic-linux version
 	{ "esf",                "hl_i386.so",               "hl.dll",                    "Earth's Special Forces"                           }, // full linux version
 	{ "existence",          nullptr,                    "existence.dll",             "Existence"                                        }, // have no linux binary found!
-	{ "firearms",           "fa.so",                    "firearms.dll",              "Firearms"                                         },
+	{ "firearms",           nullptr,                    "firearms.dll",              "Firearms"                                         }, // have no linux binary found!
 	{ "frontline",          "front.so",                 "frontline.dll",             "Frontline Force"                                  },
 	{ "gangstawars",        "gangsta.so",               "gwars27.dll",               "Gangsta Wars (Steam)"                             },
 	{ "gangwars",           "mp.so",                    "mp.dll",                    "Gangwars"                                         },
